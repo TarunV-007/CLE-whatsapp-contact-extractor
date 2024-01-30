@@ -53,7 +53,7 @@
 
         downloadCSV(rowCsv, "Contact.csv");
         clearInterval(myInterval);
-        // let phoneNumber = 9524159977;
+        // let phoneNumber = 9876543219;
         // let message = "hi";
         let msgInterval = setInterval(sendMsg,15000)
 
